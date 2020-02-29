@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <meta charset="utf-8"
+       <title>
+           Bulbazar
+       </title> 
+    </head>
+    <body>
+        <h1>Eu sunt blubi</h1>
+        <h2>Imi place sa o supar pe mami</h2>
+        <p>Si pe tati</p>
+        <img src="blubi.jpg" alt="Picture of what i Like">
+        <p> Sunt un scumpel</p>
+    </body>
+</html>
